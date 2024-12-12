@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+    <head>
+        <tittle> Paginas de prueba GIT</tittle>
+    </head>
+    <body>
+        <h1>Pruebas GIT</h1>
+        <ul>
+            <li>Paso1: Inicializar el repositiorio con git init</li>
+        </ul>
+    </body>
+</html>
