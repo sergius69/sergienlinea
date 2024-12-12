@@ -6,6 +6,7 @@
         <h1>Pruebas GIT</h1>
         <ul>
             <li>Paso1: Inicializar el repositiorio con git init</li>
+            <li>Paso2: añadir todos los ficheros con git add</li>
         </ul>
     </body>
 </html>
